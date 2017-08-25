@@ -16,7 +16,7 @@ public class Test {
 			int i=0;
 			for (char c:a)
 				{
-				System.out.println("Test the online github"+c);
+				System.out.println("Tesing the  "+c);
 				}
 			fr.close();
 		
